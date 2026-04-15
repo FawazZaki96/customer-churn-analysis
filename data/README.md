@@ -33,6 +33,7 @@ This project uses a **Bank Customer Churn dataset** containing customer demograp
 
 The dataset is not included in this repository due to size limitations.
 It can be obtained from public sources such as Kaggle.
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 ---
 
